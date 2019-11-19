@@ -1,0 +1,16 @@
+{
+  "name": "ikb1",
+  "title" : "MotorKB",
+  "keywords": "MotorKB",
+  "description": "ปลั๊กอินสำหรับบอร์ด MotorKB",
+  "homepage": "https://www.inex.co.th/",
+  "license": "MIT",
+  "git": "https://github.com/maxpromer/motorkb",
+  "author": "INEX",
+  "email": "tech@inex.co.th",
+  "url": "https://www.inex.co.th/",
+  "version": "2.1.1",
+  "board" : "kidbright",
+  "platform": [],
+  "image" : "https://store.kidbright.info/upload/cover-image/1545744054-2Xxc0S.png"
+}
